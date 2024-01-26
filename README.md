@@ -8,5 +8,5 @@ EDA provides insights that can inform better financial decision-making. It helps
 
 2. I have also created a Finance Dashboard using PowerBi tool which gives a detailed note of my personal expenses in different course and savings
 Following are the names of the files for this dashboard:
-DataSet.xlsx --> Dataset of personal Finance 
+DataSet.xlsx --> Dataset of personal Finance, 
 PowerBi file --> Finance_dashboard.pbix
